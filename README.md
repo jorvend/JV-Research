@@ -8,7 +8,7 @@ This repo contains the task of Boore's paper.
 
 - Create a repo on the github website inside jorvend user
 
-- git clone https://github.com/jorvend/UCI_paper_Boore.git (on the green button "code")
+- git clone https://github.com/jorvend/JV-Research.git (on the green button "code")
 
 ## Pull changes from github repo
 
