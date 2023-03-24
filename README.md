@@ -1,4 +1,4 @@
-# JV-Research
+# PAPER BOORE
 
 This repo contains the task of Boore's paper. 
 
@@ -34,21 +34,21 @@ This repo contains the task of Boore's paper.
 
 Create a virtual environment with python version 3.9 (the maximum supported by OpenSeesPy latest version 3.4.0.2). From the working directory execute:
 
-`py -3.9 -m venv task1_env` (ONLY FIRST TIME)
+`py -3.9 -m venv JV-Research_env` (ONLY FIRST TIME)
 
 Each time, previous to start working, execute:
 
-`./task1_env/Scripts/activate` (ALWAYS)
+`./JV-Research_env/Scripts/activate` (ALWAYS)
 
 You'll see something like (in Windows):
 
-`(task1_env) PS C:\_\UCI\UCI_paper_Boore> ` (ALWAYS)
+`(JV-Research_env) PS C:\_\UCI\UCI_paper_Boore> ` (ALWAYS)
 
 ## 2. Install OpenSeesPy and other dependencies
 
 You can install all the dependencies from the requirements.txt file
 
-`(task1_env) PS C:\_\UCI\UCI_paper_Boore> python -m pip install -r requirements.txt` (EACH TIME I ADD NEW LIBRARIES)
+`(JV-Research_env) PS C:\_\UCI\UCI_paper_Boore> python -m pip install -r requirements.txt` (EACH TIME I ADD NEW LIBRARIES)
 
 ## 3. Start a Jupyter Notebook
 
@@ -56,9 +56,9 @@ You can install all the dependencies from the requirements.txt file
 
 - From the activated python env install (ONLY FIRST TIME)
 
-  `(task1_env) PS C:\_\UCI\UCI_paper_Boore> python -m pip install notebook`
+  `(JV-Research_env) PS C:\_\UCI\UCI_paper_Boore> python -m pip install notebook`
 
-  `ipython kernel install --user --name=task1_env`
+  `ipython kernel install --user --name=JV-Research_env`
 
 - Run:
 
