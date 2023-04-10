@@ -42,7 +42,7 @@ Each time, previous to start working, execute:
 
 You'll see something like (in Windows):
 
-`(JV-Research_env) PS C:\_\UCI\UCI_paper_Boore> ` (ALWAYS)
+`(JV-Research_env) PS C:\_\UCI\JV-Research> ` (ALWAYS)
 
 ## 2. Install OpenSeesPy and other dependencies
 
