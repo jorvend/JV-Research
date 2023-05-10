@@ -1,6 +1,12 @@
-# PAPER BOORE
+# UCI RESEARCH
 
-This repo contains the task of Boore's paper. 
+OpenSees Code for my research at University of California Irvine.
+
+<p align="center">
+  <img src="./img/baixa.png" width="200" alt="UCI">
+  <img src="./img/BCeater-right-768x416.png" width="350" title="Peter the Anteater">
+</p>
+
 
 # Working with git
 
